@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  /* text-align: center; */
+}
+.createCrewmate img{
+  width: 100px;
+}
+.home img{
+  width: 400px;
+}
+.sideNavBar {
+  position: relative;
+  max-height: 100%;
+}
+.sideNavBar img{
+  width: 200px;
+  bottom: 0;
+  position: fixed;
+  /* position: absolute; */
+
+}
+.whole-screen{
+  display: flex;
+  flex-direction: row;
+}
